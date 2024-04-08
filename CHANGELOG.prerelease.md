@@ -1,3 +1,7 @@
+## 8.1.0-alpha.7
+
+- Vue: Disable controls for events, slots, and expose - [#26751](https://github.com/storybookjs/storybook/pull/26751), thanks @shilman!
+
 ## 8.1.0-alpha.6
 
 - CLI: Add --config-dir flag to migrate command - [#26721](https://github.com/storybookjs/storybook/pull/26721), thanks @yannbf!
